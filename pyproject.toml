@@ -1,0 +1,20 @@
+[project]
+name = "multi-agent-autogen"
+version = "0.1.0"
+description = "Multi-Agent Systems with AutoGen GroupChat - Workshop by learnwithparam.com"
+authors = [{ name = "Param Harrison", email = "param@learnwithparam.com" }]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.104.0",
+    "uvicorn>=0.24.0",
+    "python-dotenv>=1.0.0",
+    "pydantic>=2.6.0",
+    "httpx>=0.27.0",
+    "openai>=1.0.0",
+    "google-generativeai>=0.8.0",
+    "aiohttp>=3.9.0",
+    "autogen-agentchat>=0.4.0",
+    "autogen-ext[openai]>=0.4.0",
+    "mcp>=1.0.0",
+]
