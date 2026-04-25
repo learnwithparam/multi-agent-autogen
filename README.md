@@ -38,6 +38,8 @@ Open [http://localhost:8000/docs](http://localhost:8000/docs) for the interactiv
 6. **The "Supervisor"** - GroupChat with supervisor routing
 7. **Add More Tools** - Extended capabilities
 
-## About
+## Learn more
 
-Created by [learnwithparam.com](https://learnwithparam.com) - Learn AI Engineering through hands-on projects.
+- Start the course: [learnwithparam.com/courses/autogen-multi-agent-systems](https://www.learnwithparam.com/courses/autogen-multi-agent-systems)
+- AI Bootcamp for Software Engineers: [learnwithparam.com/ai-bootcamp](https://www.learnwithparam.com/ai-bootcamp)
+- All courses: [learnwithparam.com/courses](https://www.learnwithparam.com/courses)
